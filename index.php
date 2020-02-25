@@ -58,11 +58,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
     echo 'ID: <input type="text" name="id"><br><br>';
 }
-
+//This is a comment
 ?>
 
 <input type="submit" value="Send">
 </form>
-
 </body>
 </html>
